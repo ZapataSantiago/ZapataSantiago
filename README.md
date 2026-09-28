@@ -1,5 +1,15 @@
-# 💫 About Me:
+💻Acerca de Mi:
 Soy estudiante de Ingeniería de Software, Desarrollador Web y QA con 1 año de experiencia creando y probando aplicaciones web. Trabajo con HTML, CSS, JavaScript, React y Node.js, y me especializo en pruebas manuales y automatizadas con Cypress, Selenium y Postman. Me apasiona construir software funcional y confiable, combinando la visión de quien desarrolla con la de quien asegura la calidad. En este espacio comparto mis proyectos, prácticas y todo lo que voy aprendiendo en mi camino profesional. ¡Siempre abierto a colaborar y seguir creciendo!
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/ZapataSantiago/count.svg"/>
+  <br/>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZapataSantiago&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZapataSantiago&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZapataSantiago&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
 
 
 ## 🌐 Socials:
