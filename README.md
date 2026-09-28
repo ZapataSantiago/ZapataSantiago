@@ -1,4 +1,5 @@
-💻Acerca de Mi:
+##💻Acerca de Mi:
+
 Soy estudiante de Ingeniería de Software, Desarrollador Web y QA con 1 año de experiencia creando y probando aplicaciones web. Trabajo con HTML, CSS, JavaScript, React y Node.js, y me especializo en pruebas manuales y automatizadas con Cypress, Selenium y Postman. Me apasiona construir software funcional y confiable, combinando la visión de quien desarrolla con la de quien asegura la calidad. En este espacio comparto mis proyectos, prácticas y todo lo que voy aprendiendo en mi camino profesional. ¡Siempre abierto a colaborar y seguir creciendo!
 
 ## 🌐 Socials:
